@@ -184,4 +184,8 @@
    [![Watch the video](https://zdrav.expert/images/4/4e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2021-04-26_%D0%B2_9.29.46.png)](https://youtu.be/-sNW3F933v8)
    
    
+   ## Источники 
+   1. История компьютерного зрения https://shalaginov.com/2020/05/16/computer-vision-history/
+   2. Автопилот Tesla https://ecars24.info/stati/kak-rabotaet-avtopilot-tesla-v-2021-godu
+   3. Распознавание дорожных объектов http://itsgis.ru/presentation
    
